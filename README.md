@@ -5,6 +5,7 @@ All files and artifacts in this repository are licensed under the provisions of 
 
 # W3C_VehicleSignalInterfaceImpl
 This project implements the W3C VISS v2 specification under development at <a href="https://github.com/w3c/automotive">W3C Automotive Working Group</a>.<br>
+The project is since beginning of October 2021 moved to <a href="https://github.com/MEAE-GOT/WAII">W3C Automotive Interface Implementation</a>.
 
 
 # Starting and building the server
